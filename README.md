@@ -1,1 +1,2 @@
-My Git test
+# Description
+This is the feature description
